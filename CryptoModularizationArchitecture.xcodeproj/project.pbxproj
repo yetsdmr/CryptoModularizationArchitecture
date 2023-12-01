@@ -19,6 +19,13 @@
 		4AA21E502B1A15FE0068D1E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4AA21E522B1A16000068D1E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AA21E552B1A16000068D1E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4AA21E772B1A1BC60068D1E2 /* MyCoin */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = MyCoin; sourceTree = "<group>"; };
+		4AA21E792B1A1C270068D1E2 /* Domain */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Domain; sourceTree = "<group>"; };
+		4AA21E7B2B1A1CB80068D1E2 /* Styleguide */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Styleguide; sourceTree = "<group>"; };
+		4AA21E7C2B1A1CCE0068D1E2 /* TestHelpers */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = TestHelpers; sourceTree = "<group>"; };
+		4AA21E7D2B1A1D070068D1E2 /* BuildTools */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = BuildTools; sourceTree = "<group>"; };
+		4AA21E7E2B1A1D210068D1E2 /* Data */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Data; sourceTree = "<group>"; };
+		4AA21E7F2B1A1D3D0068D1E2 /* Home */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Home; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +42,13 @@
 		4AA21E422B1A15FE0068D1E2 = {
 			isa = PBXGroup;
 			children = (
+				4AA21E7F2B1A1D3D0068D1E2 /* Home */,
+				4AA21E7E2B1A1D210068D1E2 /* Data */,
+				4AA21E7D2B1A1D070068D1E2 /* BuildTools */,
+				4AA21E7C2B1A1CCE0068D1E2 /* TestHelpers */,
+				4AA21E7B2B1A1CB80068D1E2 /* Styleguide */,
+				4AA21E792B1A1C270068D1E2 /* Domain */,
+				4AA21E772B1A1BC60068D1E2 /* MyCoin */,
 				4AA21E4D2B1A15FE0068D1E2 /* CryptoModularizationArchitecture */,
 				4AA21E4C2B1A15FE0068D1E2 /* Products */,
 			);
